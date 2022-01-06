@@ -1,0 +1,53 @@
+---
+title: "Antonio Carlos Rodrigues"
+image: "antonio.jpeg"
+links:
+  - label: Lattes
+    url: "http://lattes.cnpq.br/1322627918739691"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/rodrigues-acr/"
+  - label: Twitter
+    url: "https://twitter.com/tonimacr"
+  - label: GitHub
+    url: "https://github.com/antonioacr"
+  - label: Email
+    url: "mailto: antoniocarlos.rodrigues@ufjf.br"
+output:
+  postcards::trestles
+citation_package: biblatex
+---
+ 
+## Bio
+
+I am an Assistant Professor in the Department of Business Administration at Federal University of Juiz de Fora. I completed my PhD in Business Administration at Federal University of Minas Gerais in 2019. I also earned Master’s degree in Business Administration at Federal University of Minas Geares in 2013 and Bachelor’s degrees in Business Administration at Federal University of Viçosa in 2011. I am interested in the field of Supply Chain Management and Operations. My current research focuses on understanding the dynamics of power and dependence in buyer-supplier relationship.
+
+
+## Education
+
+**Federal University of Minas Gerais** | Belo Horizonte, MG 🇧🇷
+Ph.D. Business Administration | 2016 - 2020 
+Sandwich doctorate at Butler University | Indianapolis, IN 🇺🇸
+
+**Federal University of Minas Gerais** | Belo Horizonte, MG 🇧🇷
+M.Sc in Business Administration | 2011 - 2013
+
+**Federal University of Viçosa** | Viçosa, MG 🇧🇷
+B.S. in Business Administration | 2006 - 2011
+
+
+## Experience
+
+**Federal University of Juiz de Fora** | Adjunct Professor | 2015 - Present 🇧🇷
+
+**Federal University of the Jequitinhonha e Mucuri** | Assistant Professor | 2013 - 2015 🇧🇷
+
+
+## Select Publications
+
+RODRIGUES, A. C.; MARTINS, R. S. The Effects of Dependence on Brazilian Third-Party Logistics Satisfaction. **Revista de Administração Contemporânea**, v. 26, n. 1, p. e200380, 2022. <https://doi.org/10.1590/1982-7849rac2022200380.en>
+
+RODRIGUES, A. C. Response Surface Analysis: A Tutorial for Examining Linear and Curvilinear Effects. **Revista de Administração Contemporânea**, v. 25, n. 6, p. e200293, 6 abr. 2021. <https://doi.org/10.1590/1982-7849rac2021200293.en>
+ 
+LAGE, M. L. C., RODRIGUES, A. C. Pandelivery: Reflections on black delivery app workers experiences during COVID-19 in Brazil. **Gender, Work & Organization**, 28( S2), 434– 445, 2021. <https://doi.org/10.1111/gwao.12604>
+
+RODRIGUES, A. C.; MARTINS, R. S.; WANKE, P. F. ; SIEGLER, J. . Efficiency of Specialized 3PL Providers in an Emerging Economy. **International Journal of Production Economics**, v. 205C, p. 163-178, 2018. <https://doi.org/10.1016/j.ijpe.2018.09.012>
