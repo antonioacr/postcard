@@ -11,7 +11,7 @@ links:
   - label: GitHub
     url: "https://github.com/antonioacr"
   - label: Email
-    url: "mailto: antoniocarlos.rodrigues@ufjf.br"
+    url: "https://drive.google.com/drive/u/0/folders/1zqm2Sbt1iBlzsFlsx6Y-XmvL4N1OE8ho"
   -  label: Drive
     url: "https://drive.google.com/drive/u/0/folders/1zqm2Sbt1iBlzsFlsx6Y-XmvL4N1OE8ho"
 output:
